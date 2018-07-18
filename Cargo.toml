@@ -1,0 +1,11 @@
+[book]
+name = "{{project-name}}"
+authors = ["{{authors}}"]
+title = "Sample mdbook"
+description = "An mdbook made using template for cargo-generate"
+src = "src"
+version = "0.1.0"
+
+
+[dependencies]
+
